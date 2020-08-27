@@ -2,6 +2,8 @@
 
 A full black theme for discord which look kinda cool in my opinion 
 
+![](knv.png)
+
 # steps 
 
 * Install better BetterDiscordApp by rauenzi.
