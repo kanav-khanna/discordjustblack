@@ -1,7 +1,8 @@
-#JUST BLACK 
+# JUST BLACK 
+
 A full black theme for discord which look kinda cool in my opinion 
 
-#steps 
+# steps 
 
 * Install better BetterDiscordApp by rauenzi.
 * Download and install the theme.
