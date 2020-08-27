@@ -1,10 +1,10 @@
 # JUST BLACK 
 
-A full black theme for discord which look kinda cool in my opinion 
+A full black theme for discord which look kinda cool in my opinion. 
 
 ![](knv.png)
 
-# steps 
+# Steps- 
 
 * Install better BetterDiscordApp by rauenzi.
 * Download and install the theme.
